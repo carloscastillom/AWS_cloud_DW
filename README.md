@@ -7,8 +7,8 @@ As their data engineer, you are tasked with building an ETL pipeline that extrac
 
 # How to run
 - Fill out the config file dwh.cfg. the information must completed with your own account details.
+-  Open up create_cluster.ipynb and follow the intructions in the jupyter notebook.
 - run create_tables.py.
-- Open up create_cluster.ipynb and follow the intructions in the jupyter notebook.
 - run etl.py
 - Do not forget to delete the redshift cluster
 
