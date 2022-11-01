@@ -12,7 +12,6 @@ As their data engineer, you are tasked with building an ETL pipeline that extrac
 - run etl.py
 - Do not forget to delete the redshift cluster
 
- explanation of the files in the repository. Comments are used effectively and each function has a docstring.
 
 # Files
 - dwh.cfg it is the configuration file
