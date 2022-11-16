@@ -10,7 +10,7 @@ As their data engineer, you are tasked with building an ETL pipeline that extrac
 -  Open up create_cluster.ipynb and follow the intructions in the jupyter notebook. Please note that the cluster is running on west-2
 - run create_tables.py.
 - run etl.py
-- Do not forget to delete the redshift cluster
+- Do not forget to delete the redshift cluster to avoid unexpected costs 
 
 
 
